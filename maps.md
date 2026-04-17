@@ -2,6 +2,12 @@
 
 
 
+nieuwe map:
+
+\-anubis
+
+
+
 alle speelbare maps:
 
 \-Nuke
